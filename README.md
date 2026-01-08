@@ -1,4 +1,4 @@
-# DayStory - Web Uygulaması
+# 📖 DayStory 
 
 ## Proje Hakkında
 
