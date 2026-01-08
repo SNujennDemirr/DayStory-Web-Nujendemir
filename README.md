@@ -49,7 +49,7 @@ Bu yaklaşım sayesinde hem teknik entegrasyonlar hem de kullanıcı deneyimi bi
 ## 📸 Ekran Görüntüleri
 
 <p align="center">
-   <img src="src/assets/ss/1.png" width="400" style="max-width: 100%; height: auto;" />
+   <img src="src/assets/ss/1.png" width="400" style="max-width: 100%; max-height:300;" />
   <img src="src/assets/ss/2.png" width="400" height="400" />
 </p>
 
