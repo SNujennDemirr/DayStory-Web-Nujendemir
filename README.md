@@ -4,7 +4,7 @@
 
 DayStory, fikir aşamasından başlayarak analiz, tasarım, geliştirme ve MVP (Minimum Viable Product) sürecine kadar uçtan uca planlanmış ve geliştirilmiştir.
 
-## Proje Kapsamı ve Yaklaşımı
+## 📌 Proje Kapsamı ve Yaklaşımı
 
 Proje sürecinde aşağıdaki temel prensipler benimsenmiştir:
 
@@ -49,7 +49,7 @@ Bu yaklaşım sayesinde hem teknik entegrasyonlar hem de kullanıcı deneyimi bi
 ## 📸 Ekran Görüntüleri
 
 <p align="center">
-  <img src="src/assets/ss/1.png" width="400" height="400" />
+  <img src="src/assets/ss/1.png" width="400" height="200" />
   <img src="src/assets/ss/2.png" width="400" height="400" />
 </p>
 
