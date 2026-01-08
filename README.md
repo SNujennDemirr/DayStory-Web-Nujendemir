@@ -49,8 +49,8 @@ Bu yaklaşım sayesinde hem teknik entegrasyonlar hem de kullanıcı deneyimi bi
 ## 📸 Ekran Görüntüleri
 
 <p align="center">
-   <img src="src/assets/ss/1.png" width="400" style="max-width: 100%; max-height:200;" />
-  <img src="src/assets/ss/2.png" width="400" height="400" />
+  <img src="src/assets/ss/1.png" width="400" height="400" style="object-fit: contain;" />
+  <img src="src/assets/ss/2.png" width="400" height="400" style="object-fit: contain;" />
 </p>
 
 <p align="center">
