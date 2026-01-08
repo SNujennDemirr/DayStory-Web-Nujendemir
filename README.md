@@ -9,7 +9,7 @@ DayStory, fikir aşamasından başlayarak analiz, tasarım, geliştirme ve MVP (
 Proje sürecinde aşağıdaki temel prensipler benimsenmiştir:
 
 - **Günlük Yönetimi:** Günlük notların tarih bazlı olarak yönetildiği bir yapı oluşturulması
-- **Sınıflandırma:** Kullanıcı notlarının yalnızca saklanması değil, anlamlandırılması ve görselleştirilmesi
+Kullanıcı notlarının yalnızca saklanması değil, anlamlandırılması ve görselleştirilmesi
 - **Yapay Zeka Entegrasyonu:** Yapay zeka servisleri kullanılarak:
   - Metin tabanlı özetler
   - İçeriğe dayalı AI görsel çıktılar üretilmesi
