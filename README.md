@@ -46,7 +46,29 @@ Bu yaklaşım sayesinde hem teknik entegrasyonlar hem de kullanıcı deneyimi bi
 - Tarih bazlı görsel filtreleme
 - Görsel detay sayfası
 
+## 📸 Ekran Görüntüleri
 
+<p align="center">
+  <img src="src/assets/ss/1.png" width="400" height="400" />
+  <img src="src/assets/ss/2.png" width="400" height="400" />
+</p>
+
+<p align="center">
+  <img src="src/assets/ss/3.png" width="400" height="400" />
+  <img src="src/assets/ss/4.png" width="400" height="400" />
+</p>
+
+<p align="center">
+  <img src="src/assets/ss/5.png" width="400" height="400" />
+  <img src="src/assets/ss/6.png" width="400" height="400" />
+</p>
+
+<p align="center">
+  <img src="src/assets/ss/7.png" width="400" height="400" />
+  <img src="src/assets/ss/8.png" width="400" height="400" />
+</p>
+
+---
 
 **Not:** Bu proje, bir MVP uygulaması olarak geliştirilmiştir ve aktif olarak geliştirilmeye devam etmektedir.
 
