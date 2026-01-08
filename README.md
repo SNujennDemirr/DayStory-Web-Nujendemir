@@ -29,7 +29,7 @@ Bu yaklaşım sayesinde hem teknik entegrasyonlar hem de kullanıcı deneyimi bi
 
 **SCSS/Sass:** Uygulama stillerinin modüler ve ölçeklenebilir şekilde yazılması
 
-## Özellikler
+## 📌  Özellikler
 
 ### 👤 Kullanıcı Yönetimi
 - Kullanıcı kayıt ve giriş sistemi
@@ -41,7 +41,7 @@ Bu yaklaşım sayesinde hem teknik entegrasyonlar hem de kullanıcı deneyimi bi
 - Notları düzenleme ve silme
 - Notların listelenmesi ve filtrelenmesi
 
-### m🎨  AI Galeri
+### 🎨  AI Galeri
 - Günlük notlardan AI ile oluşturulan görselleri görüntüleme
 - Tarih bazlı görsel filtreleme
 - Görsel detay sayfası
@@ -49,7 +49,7 @@ Bu yaklaşım sayesinde hem teknik entegrasyonlar hem de kullanıcı deneyimi bi
 ## 📸 Ekran Görüntüleri
 
 <p align="center">
-   <img src="src/assets/ss/1.png" width="400" style="max-width: 100%; max-height:300;" />
+   <img src="src/assets/ss/1.png" width="400" style="max-width: 100%; max-height:200;" />
   <img src="src/assets/ss/2.png" width="400" height="400" />
 </p>
 
