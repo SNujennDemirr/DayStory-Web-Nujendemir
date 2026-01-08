@@ -1,7 +1,5 @@
 # 📖 DayStory 
 
-## Proje Hakkında
-
 **DayStory**, kullanıcıların günlük notlarını tarih bazlı olarak yönetebildiği ve bu notları yapay zeka destekli özetler ve AI görsel çıktılara dönüştürebilen bir uygulama projesidir. Proje; web ve mobil platformları kapsayan bir yapı olarak ele alınmıştır.
 
 DayStory, fikir aşamasından başlayarak analiz, tasarım, geliştirme ve MVP (Minimum Viable Product) sürecine kadar uçtan uca planlanmış ve geliştirilmiştir.
@@ -11,16 +9,15 @@ DayStory, fikir aşamasından başlayarak analiz, tasarım, geliştirme ve MVP (
 Proje sürecinde aşağıdaki temel prensipler benimsenmiştir:
 
 - **Günlük Yönetimi:** Günlük notların tarih bazlı olarak yönetildiği bir yapı oluşturulması
-- **Anlamlandırma:** Kullanıcı notlarının yalnızca saklanması değil, anlamlandırılması ve görselleştirilmesi
+- **Sınıflandırma:** Kullanıcı notlarının yalnızca saklanması değil, anlamlandırılması ve görselleştirilmesi
 - **Yapay Zeka Entegrasyonu:** Yapay zeka servisleri kullanılarak:
   - Metin tabanlı özetler
   - İçeriğe dayalı AI görsel çıktılar üretilmesi
-- **Çoklu Platform Desteği:** Web ve mobil platformlar için ortak proje mantığının kurgulanması
 - **MVP Yaklaşımı:** Temel kullanıcı akışlarını kapsayan, net sınırları belirlenmiş bir MVP yaklaşımı
 
 Bu yaklaşım sayesinde hem teknik entegrasyonlar hem de kullanıcı deneyimi birlikte ele alınmıştır.
 
-## Kullanılan Teknolojiler
+## 🛠️ Kullanılan Teknolojiler
 
 **React:** Kullanıcı arayüzünün bileşen tabanlı ve yönetilebilir şekilde oluşturulması
 
@@ -34,17 +31,17 @@ Bu yaklaşım sayesinde hem teknik entegrasyonlar hem de kullanıcı deneyimi bi
 
 ## Özellikler
 
-### Kullanıcı Yönetimi
+### 👤 Kullanıcı Yönetimi
 - Kullanıcı kayıt ve giriş sistemi
 - Kimlik doğrulama ve yetkilendirme
 - Profil yönetimi
 
-### Not Yönetimi
+### 📝 Not Yönetimi
 - Tarih bazlı günlük notlar oluşturma
 - Notları düzenleme ve silme
 - Notların listelenmesi ve filtrelenmesi
 
-### AI Galeri
+### m🎨  AI Galeri
 - Günlük notlardan AI ile oluşturulan görselleri görüntüleme
 - Tarih bazlı görsel filtreleme
 - Görsel detay sayfası
